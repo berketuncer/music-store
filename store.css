@@ -1,0 +1,42 @@
+header {
+    color: blueviolet;
+    font-size: 20px;
+    text-align:center;
+}
+
+section {
+    text-align:center;
+}
+
+h2 {
+    text-transform: uppercase;
+    color:rgb(69, 6, 128)
+}
+
+footer {
+    color: blueviolet;
+    font-size: 20px;
+    text-align:center;
+}
+
+.about-us-p {
+    color: chocolate;
+    font-size: 20px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+.pic-size {
+    height: 400px;
+}
+
+.product-headings {
+    color :rgb(117, 2, 139);
+    font-size: 40px;
+}
